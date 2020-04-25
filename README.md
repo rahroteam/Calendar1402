@@ -1,7 +1,4 @@
-این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کد اصلی آن را می‌توانید از
-https://github.com/persian-calendar/DroidPersianCalendar 
-
-دریافت کنید.
+این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کدهای اصلی و ویرایش شده آن را میتوانید در زیر دریافت کنید
 
 سورس نسخه اصلی برنامه https://github.com/persian-calendar/DroidPersianCalendar
 
