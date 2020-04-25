@@ -1,5 +1,8 @@
 تقویم فارسی اندروید
-این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کد اصلی آن را می‌توانید از https://github.com/persian-calendar/DroidPersianCalendar دریافت کنید.
+این برنامه به صورت رایگان و متن‌باز نوشته شده‌است و سورس کد اصلی آن را می‌توانید از
+https://github.com/persian-calendar/DroidPersianCalendar 
+
+دریافت کنید.
 
 سورس نسخه اصلی برنامه https://github.com/persian-calendar/DroidPersianCalendar
 
