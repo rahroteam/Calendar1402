@@ -4,7 +4,7 @@
 
 سورس نسخه ویرایش شده: https://github.com/rahroteam/Calendar1402
 
-لینک برنامه ویرایش شده در کافه بازار https://cafebazaar.ir/app/com.baharapp.calendar
+لینک برنامه ویرایش شده در کافه بازار https://cafebazaar.ir/app/ir.rahroteam.calendar
 
 مجوز شرایط استفاده از کد برنامه
 
