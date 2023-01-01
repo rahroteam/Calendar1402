@@ -2,7 +2,7 @@
 
 سورس نسخه اصلی برنامه https://github.com/persian-calendar/DroidPersianCalendar
 
-سورس نسخه ویرایش شده: https://github.com/amezaro/Calendar99
+سورس نسخه ویرایش شده: https://github.com/rahroteam/Calendar1402
 
 لینک برنامه ویرایش شده در کافه بازار https://cafebazaar.ir/app/com.baharapp.calendar
 
